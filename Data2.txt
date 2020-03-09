@@ -1,0 +1,2 @@
+Ini adalah isi Teks baru pada fileSaya: Data2.txt
+1234567
